@@ -1,0 +1,4 @@
+Portrait image required: portrait.png
+Minimum size: 128x128 pixels
+Format: PNG
+This file should be replaced with the actual character portrait artwork.

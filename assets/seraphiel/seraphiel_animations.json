@@ -1,0 +1,160 @@
+{
+  "idle": {
+    "frame_start": 0,
+    "frame_count": 6,
+    "frame_duration": 0.12,
+    "loop": true,
+    "metadata": {
+      "wing_flutter_max_displacement_px": 3
+    }
+  },
+  "walk_forward": {
+    "frame_start": 6,
+    "frame_count": 6,
+    "frame_duration": 0.10,
+    "loop": true
+  },
+  "walk_backward": {
+    "frame_start": 12,
+    "frame_count": 6,
+    "frame_duration": 0.10,
+    "loop": true
+  },
+  "jump": {
+    "frame_start": 18,
+    "frame_count": 4,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "land": {
+    "frame_start": 22,
+    "frame_count": 3,
+    "frame_duration": 0.08,
+    "loop": false
+  },
+  "crouch": {
+    "frame_start": 25,
+    "frame_count": 2,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "holy_strike": {
+    "frame_start": 27,
+    "frame_count": 13,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "wing_buffet": {
+    "frame_start": 40,
+    "frame_count": 14,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "ascend": {
+    "frame_start": 54,
+    "frame_count": 5,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "halo_slam": {
+    "frame_start": 59,
+    "frame_count": 18,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "feather_barrage": {
+    "frame_start": 77,
+    "frame_count": 23,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "blinding_light": {
+    "frame_start": 100,
+    "frame_count": 20,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "healing_hymn": {
+    "frame_start": 120,
+    "frame_count": 20,
+    "frame_duration": 0.05,
+    "loop": false,
+    "metadata": {
+      "particle_effect": {
+        "recovery_frames_only": true,
+        "particle_count_min": 8,
+        "color": "golden",
+        "direction": "rising"
+      }
+    }
+  },
+  "divine_descent": {
+    "frame_start": 140,
+    "frame_count": 17,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "wrath_of_heaven": {
+    "frame_start": 157,
+    "frame_count": 30,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "angelic_restoration": {
+    "frame_start": 187,
+    "frame_count": 16,
+    "frame_duration": 0.05,
+    "loop": false,
+    "metadata": {
+      "particle_effect": {
+        "recovery_frames_only": true,
+        "particle_count_min": 8,
+        "color": "golden",
+        "direction": "rising"
+      }
+    }
+  },
+  "seraphs_judgment": {
+    "frame_start": 203,
+    "frame_count": 44,
+    "frame_duration": 0.05,
+    "loop": false,
+    "metadata": {
+      "screen_flash_overlay": {
+        "active_frames_only": true,
+        "min_opacity": 0.90,
+        "color": "#FFFFFF"
+      }
+    }
+  },
+  "hit_stun": {
+    "frame_start": 247,
+    "frame_count": 4,
+    "frame_duration": 0.08,
+    "loop": false
+  },
+  "knockdown": {
+    "frame_start": 251,
+    "frame_count": 5,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "get_up": {
+    "frame_start": 256,
+    "frame_count": 4,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "victory": {
+    "frame_start": 260,
+    "frame_count": 6,
+    "frame_duration": 0.12,
+    "loop": true
+  },
+  "defeat": {
+    "frame_start": 266,
+    "frame_count": 5,
+    "frame_duration": 0.12,
+    "loop": false
+  }
+}

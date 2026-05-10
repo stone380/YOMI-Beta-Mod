@@ -1,0 +1,29 @@
+{
+  "mod_name": "Yomi Hustle Character Mod",
+  "version": "1.0.0",
+  "author": "ModAuthor",
+  "target_game_version": "0.1.0",
+  "characters": [
+    {
+      "id": "malachar_the_undying",
+      "script": "scripts/malachar/malachar_character.gd",
+      "portrait": "assets/malachar/portrait.png"
+    },
+    {
+      "id": "seraphiel_the_radiant",
+      "script": "scripts/seraphiel/seraphiel_character.gd",
+      "portrait": "assets/seraphiel/portrait.png"
+    }
+  ],
+  "audio": "audio_manifest.json",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "changes": [
+        "Initial release with Malachar the Undying and Seraphiel the Radiant.",
+        "Malachar: Blood Meter mechanic, Life Steal, Hypnosis, 11 moves.",
+        "Seraphiel: Radiance Meter mechanic, Smite, Healing, 11 moves."
+      ]
+    }
+  ]
+}

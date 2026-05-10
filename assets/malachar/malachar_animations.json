@@ -1,0 +1,147 @@
+{
+  "idle": {
+    "frame_start": 0,
+    "frame_count": 6,
+    "frame_duration": 0.12,
+    "loop": true
+  },
+  "walk_forward": {
+    "frame_start": 6,
+    "frame_count": 6,
+    "frame_duration": 0.10,
+    "loop": true
+  },
+  "walk_backward": {
+    "frame_start": 12,
+    "frame_count": 6,
+    "frame_duration": 0.10,
+    "loop": true
+  },
+  "jump": {
+    "frame_start": 18,
+    "frame_count": 4,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "land": {
+    "frame_start": 22,
+    "frame_count": 3,
+    "frame_duration": 0.08,
+    "loop": false
+  },
+  "crouch": {
+    "frame_start": 25,
+    "frame_count": 2,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "claw_swipe": {
+    "frame_start": 27,
+    "frame_count": 12,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "lunge_bite": {
+    "frame_start": 39,
+    "frame_count": 16,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "shadow_step": {
+    "frame_start": 55,
+    "frame_count": 5,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "sweeping_talon": {
+    "frame_start": 60,
+    "frame_count": 15,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "bat_swarm": {
+    "frame_start": 75,
+    "frame_count": 24,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "hypnotic_gaze": {
+    "frame_start": 99,
+    "frame_count": 22,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "crimson_mist": {
+    "frame_start": 121,
+    "frame_count": 19,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "bat_form_dash": {
+    "frame_start": 140,
+    "frame_count": 7,
+    "frame_duration": 0.05,
+    "loop": false,
+    "metadata": {
+      "opacity_transition": {
+        "startup_fade_out": true,
+        "recovery_fade_in": true
+      }
+    }
+  },
+  "blood_nova": {
+    "frame_start": 147,
+    "frame_count": 27,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "eternal_drain": {
+    "frame_start": 174,
+    "frame_count": 28,
+    "frame_duration": 0.05,
+    "loop": false
+  },
+  "lord_of_bats": {
+    "frame_start": 202,
+    "frame_count": 45,
+    "frame_duration": 0.05,
+    "loop": false,
+    "metadata": {
+      "screen_darken_overlay": {
+        "active_frames_only": true,
+        "max_opacity": 0.60,
+        "color": "#000000"
+      }
+    }
+  },
+  "hit_stun": {
+    "frame_start": 247,
+    "frame_count": 4,
+    "frame_duration": 0.08,
+    "loop": false
+  },
+  "knockdown": {
+    "frame_start": 251,
+    "frame_count": 5,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "get_up": {
+    "frame_start": 256,
+    "frame_count": 4,
+    "frame_duration": 0.10,
+    "loop": false
+  },
+  "victory": {
+    "frame_start": 260,
+    "frame_count": 6,
+    "frame_duration": 0.12,
+    "loop": true
+  },
+  "defeat": {
+    "frame_start": 266,
+    "frame_count": 5,
+    "frame_duration": 0.12,
+    "loop": false
+  }
+}

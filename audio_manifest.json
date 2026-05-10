@@ -1,0 +1,30 @@
+{
+  "malachar": {
+    "claw_swipe":          "assets/audio/malachar/claw_swipe.ogg",
+    "lunge_bite":          "assets/audio/malachar/lunge_bite.ogg",
+    "shadow_step":         "assets/audio/malachar/shadow_step.ogg",
+    "sweeping_talon":      "assets/audio/malachar/sweeping_talon.ogg",
+    "bat_swarm":           "assets/audio/malachar/bat_swarm.ogg",
+    "hypnotic_gaze":       "assets/audio/malachar/hypnotic_gaze.ogg",
+    "crimson_mist":        "assets/audio/malachar/crimson_mist.ogg",
+    "bat_form_dash":       "assets/audio/malachar/bat_form_dash.ogg",
+    "blood_nova":          "assets/audio/malachar/blood_nova.ogg",
+    "eternal_drain":       "assets/audio/malachar/eternal_drain.ogg",
+    "lord_of_bats":        "assets/audio/malachar/lord_of_bats.ogg",
+    "blood_meter_pulse":   "assets/audio/malachar/blood_meter_pulse.ogg"
+  },
+  "seraphiel": {
+    "holy_strike":         "assets/audio/seraphiel/holy_strike.ogg",
+    "wing_buffet":         "assets/audio/seraphiel/wing_buffet.ogg",
+    "ascend":              "assets/audio/seraphiel/ascend.ogg",
+    "halo_slam":           "assets/audio/seraphiel/halo_slam.ogg",
+    "feather_barrage":     "assets/audio/seraphiel/feather_barrage.ogg",
+    "blinding_light":      "assets/audio/seraphiel/blinding_light.ogg",
+    "healing_hymn":        "assets/audio/seraphiel/healing_hymn.ogg",
+    "divine_descent":      "assets/audio/seraphiel/divine_descent.ogg",
+    "wrath_of_heaven":     "assets/audio/seraphiel/wrath_of_heaven.ogg",
+    "angelic_restoration": "assets/audio/seraphiel/angelic_restoration.ogg",
+    "seraph_judgment":     "assets/audio/seraphiel/seraph_judgment.ogg",
+    "radiance_meter_glow": "assets/audio/seraphiel/radiance_meter_glow.ogg"
+  }
+}
